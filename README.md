@@ -1,7 +1,15 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">System.out.println("Hi, I'm Eric👋"); </h1></summary>
+  <pre align="center">
+<code>
+public class Eric {
+    public static void main(String[] args) {
+        System.out.println("Hi, I'm Eric 👋");
+    }
+}
+</code>
+</pre>
   </ul>
 </div>
 
