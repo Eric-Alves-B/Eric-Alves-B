@@ -23,7 +23,7 @@ public class Eric {
 <details>
   <summary>👨‍💻 More about me</summary>
   <br>
-  💬 I'm a 23 year old software developer based in Brazil. I'm fluent in English and have experience with Java, React, Python, JavaScript, HTML, MySQL, and Spring Boot.
+  💬 I'm a 23 year old Data Analyst based in Brazil. I'm fluent in English and have experience with Java, React, Python, Excel, Power BI, SQL, and Spring Boot.
 🎯  I'm passionate about building software, continuously learning, and solving real-world problems.
 ⚡ Outside of coding, I enjoy reading manga, training Brazilian Jiu-Jitsu, watching movies, and playing games.
 </details>
